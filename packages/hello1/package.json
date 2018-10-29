@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Patrick Hund <pahund@team.mobile.de> (https://ebaytech.berlin/)",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "51abfe04f2991dc720b6fc68a27bef65ac3965cc"
 }
